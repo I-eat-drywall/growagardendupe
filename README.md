@@ -13,4 +13,11 @@ You may need to download Python (https://www.python.org/downloads/)
 
 
 Upd. 1.1:
+
 *I have now modified it to have an option to save the item into your inventory instead of selling automatically.
+
+The dupe is currently not working
+
+Upd. 1.2:
+
+I have fixed the dupe again, it should function properly
