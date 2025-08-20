@@ -21,3 +21,4 @@ The dupe is currently not working
 Upd. 1.2:
 
 I have fixed the dupe again, it should function properly
+I have also attached a video as proof
